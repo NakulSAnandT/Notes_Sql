@@ -4,3 +4,11 @@
 3 - GIT ADD {Filename or . } (To track)
 4 - GIT COMMIT -M "second commit" (Committing changes)
 5-GIT PUSH (To push the changes onto server)
+
+
+
+
+
+
+ls - to list all the elements
+rm - remove any file
