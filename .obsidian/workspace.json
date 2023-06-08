@@ -23,12 +23,24 @@
             "id": "9d98b0aabf8bcbbe",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2e83eb65d3d3139",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,11 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d98b0aabf8bcbbe",
+  "active": "b2e83eb65d3d3139",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Test.md",
     "test 2.md",
+    "Test.md",
+    "GIT BASICS.md",
+    "test.txt",
+    "Untitled.canvas",
     "Screenshot 2023-05-15 093604.jpg"
   ]
 }
