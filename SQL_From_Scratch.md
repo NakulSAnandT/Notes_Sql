@@ -3,9 +3,9 @@ Mysql_root_password : Nakul@123
 ## Database Creation, Selection, Deletion
 1. create database *database name* - **Creates a database**
 2. create database if not exists *database name*- **Won't return an error if the same database exists**
-3. use *database name* - **To specify which database to use**
+3. use *database_name* - **To specify which database to use**
 4. show databases - **To see all databases present**
-5. drop database *database name* 
+5. drop database *database_name* 
 
 ## Types of data language
 
@@ -23,7 +23,10 @@ Mysql_root_password : Nakul@123
 
 
 
-## DML (Create, Truncate, Alter, Delete)
+
+
+
+## DDL 
 
 **Creating a table :**
 
@@ -70,3 +73,34 @@ Mysql_root_password : Nakul@123
 
 7. alter table ***table_name*** rename to ***new_table_name*** (Renaming a whole table)
 	example : alter table students rename to student
+
+
+
+
+## DML 
+
+1. Selection:
+
+-  select ***column_name1***,***column_name*** from ***table_name***
+-  select * from ***table_name***
+-  select ***column_name*** from ***table_name*** where ***condition***
+	ex : select fname,lname from employee where Gender = 'M'
+- we can use multiple operators in the selection statement [[Operators in sql]]
+
+2. Insertion : 
+
+- insert into ***table_name*** (column1,column2,column3) Values('a',123,'c')
+
+3. Updation :
+- update ***table_name*** SET ***column1 = value1*** where condition
+	ex : update employee set salary = 50000 where fname like '%a' and id = 101
+	ex: update employee set salary = 0 where salary is null
+
+4. Deletion:
+- delete from ***table_name*** where condition
+	delete from employee where salary >=90000
+
+## DDL:
+
+1. GRANT SELECT, INSERT, UPDATE ON employees TO user1;
+2. REVOKE DELETE ON employees FROM user2;

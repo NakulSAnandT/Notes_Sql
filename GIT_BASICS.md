@@ -9,8 +9,6 @@ rm - remove any file
 4. GIT COMMIT -M "second commit" (Committing changes)
 5. GIT PUSH (To push the changes onto server)
 
-
-
 ## Deleting a file
 1. rm {filename}: to remove the file
 2. rm -rf {filename or directory} :to remove the forcefully directory or file
