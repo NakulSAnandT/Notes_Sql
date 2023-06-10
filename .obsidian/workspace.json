@@ -4,54 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0b7b879e1b1f35e3",
-        "type": "split",
+        "id": "4b6aa310e71d7434",
+        "type": "tabs",
         "children": [
           {
-            "id": "a633088ba40927d8",
-            "type": "tabs",
-            "dimension": 60.37079953650058,
-            "children": [
-              {
-                "id": "be051a2af65b7aa3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SQL_From_Scratch.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5408e8093fba87cf",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 1
+            "id": "6409ce5e70958503",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           },
           {
-            "id": "d3b4315cb0c87d0a",
-            "type": "tabs",
-            "dimension": 39.62920046349942,
-            "children": [
-              {
-                "id": "8f9df1dea73bca57",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "d990e02a47bf1f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python - Analytics and Science (Cheat sheet).md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python - Analytics and Science (Cheat sheet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Python - Analytics and Science (Cheat sheet).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python - Analytics and Science (Cheat sheet).md"
+              }
             }
           },
           {
@@ -184,18 +166,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5408e8093fba87cf",
+  "active": "d990e02a47bf1f0b",
   "lastOpenFiles": [
     "Home.md",
-    "Operators in sql.md",
-    "Python - Analytics and Science.md",
+    "Python - Analytics and Science (Cheat sheet).md",
+    "col1, col2.md",
     "SQL_From_Scratch.md",
+    "Operators in sql.md",
+    "Git_Basics.md",
     "Excalidraw/Drawing 2023-06-08 23.09.48.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2023-06-08 22.34.20.excalidraw.md",
     "2023-06-08.md",
     "Project to do list.md",
-    "Git_Basics.md",
     "test.txt",
     "Untitled.canvas",
     "Screenshot 2023-05-15 093604.jpg"

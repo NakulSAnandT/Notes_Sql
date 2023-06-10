@@ -1,6 +1,6 @@
 Mysql_root_password : Nakul@123
 
-## Database Creation, Selection, Deletion
+## Database Creation, Selection and Deletion
 1. create database *database name* - **Creates a database**
 2. create database if not exists *database name*- **Won't return an error if the same database exists**
 3. use *database_name* - **To specify which database to use**
@@ -104,3 +104,6 @@ Mysql_root_password : Nakul@123
 
 1. GRANT SELECT, INSERT, UPDATE ON employees TO user1;
 2. REVOKE DELETE ON employees FROM user2;
+
+## Joins and Normalization
+ The whole purpose of join is to allow us to pull data from one or more than one table at a time
