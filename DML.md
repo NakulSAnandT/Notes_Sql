@@ -1,4 +1,4 @@
-## DML 
+DML is a subset of SQL used to retrieve, manipulate, and manage data within a database. It consists of commands that allow you to insert, update, delete, and retrieve data from database tables.
 
 1. Selection:
 

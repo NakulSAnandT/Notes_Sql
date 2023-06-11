@@ -1,5 +1,5 @@
 
-## DDL 
+DDL is a subset of SQL used to define and manage the structure of database objects. It consists of commands that allow you to create, modify, and delete database objects such as tables, indexes, views, and constraints.
 
 **Creating a table :**
 
