@@ -14,14 +14,18 @@ DDL is a subset of SQL used to define and manage the structure of database objec
          );
 
   *note : use ' ' to make a name single than using delimiter, ex : 'student name' varchar(20)*
-  
+ 
+  -------------------------------------------------------------------  
+ 
 **Truncating a table :** 
 
 2. truncate ***table_name***  
+-------------------------------------------------------------------
 
 **Dropping a table :** 
 
 3. drop table ***table_name***
+-------------------------------------------------------------------
 
 **Adding a new column :** 
 

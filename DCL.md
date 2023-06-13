@@ -8,14 +8,14 @@ DCL stands for Data Control Language in SQL. It consists of a set of commands us
 - Example: Granting SELECT privilege on a table to a user:
 
 	- GRANT SELECT ON table_name TO user_name;
-
+-------------------------------------------------------
 2. REVOKE DELETE ON employees FROM user2;
 
 - The REVOKE command is used to revoke previously granted privileges from users or roles.
     
 - Example: Revoking INSERT privilege on a table from a user:
 	- REVOKE INSERT ON table_name FROM user_name;
-
+-------------------------------------------------------
 3. CREATE USER:
 
 - The CREATE USER command is used to create a new user account in the database.
