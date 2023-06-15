@@ -29,7 +29,7 @@ DDL is a subset of SQL used to define and manage the structure of database objec
 
 **Adding a new column :** 
 
-4. alter table ***table_name*** alter add column ***column_name***  
+4. alter table ***table_name***  add column ***column_name***  
     after/before ***column name***
  example : ALTER TABLE students ADD COLUMN Mobile2 bigint after student_name
  
